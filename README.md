@@ -1,4 +1,4 @@
-# Regression Analysis on Download data
+# Regression Analysis on Download data, Univeristy Project
 
 1. script.R: R Script file to be executed
 
